@@ -1,4 +1,4 @@
-package com.volod96.theClassicals.reboot.application;
+package com.volod96.theClassicals.reboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
